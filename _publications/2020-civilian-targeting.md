@@ -1,5 +1,5 @@
 ---
-title: "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone"
+title: ""
 collection: publications
 permalink: /publication/2020-civilian-targeting
 date: 2020-06-08
