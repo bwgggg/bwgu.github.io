@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Welcome to my page"
+excerpt: "Welcome to my page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my page
-==================
 
 Welcome! I am an academic working at the intersection of wireless communications and low-power Internet of Things (IoT). On this page you can find a brief introduction to my background, research interests, and recent activities.
 
