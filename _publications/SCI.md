@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Border Barriers and Illicit Trade Flows"
 collection: publications
