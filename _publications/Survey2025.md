@@ -1,5 +1,5 @@
 ---
-title: "SCI"
+title: "2025"
 collection: publications
 permalink: https://ieeexplore.ieee.org/abstract/document/10616210
 date: 31 July 2024
