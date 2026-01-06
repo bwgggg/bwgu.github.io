@@ -1,5 +1,5 @@
 ---
-title: "Border Barriers and Illicit Trade Flows"
+title: ""
 collection: publications
 permalink: /publication/2024-walls
 date: 2024-07-03
