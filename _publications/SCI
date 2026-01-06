@@ -1,1 +1,4 @@
 
+git rm _publications/SCI
+git commit -m "Remove SCI"
+git push
