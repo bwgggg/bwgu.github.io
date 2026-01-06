@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Bowen Gu"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
-  employer         :
+  bio              : "Associate professor in Xinjiang University."
+  location         : Xinjiang 
+  employer         : Xinjiang University
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "https://orcid.org/0000-0001-9506-328X"
+  googlescholar    : "https://scholar.google.com/citations?user=HVV62k4AAAAJ&hl=zh-CN"
+  email            : "bwgu@xju.edu.cn" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : #"jayrobwilliams"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
