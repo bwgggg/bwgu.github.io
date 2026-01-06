@@ -67,34 +67,34 @@ author:
   orcid            : "https://orcid.org/0000-0001-9506-328X"
   googlescholar    : "https://scholar.google.com/citations?user=HVV62k4AAAAJ&hl=zh-CN"
   email            : "bwgu@xju.edu.cn" 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/Bowen-Gu-7?ev=hdr_xprf"
+  uri              : #
+  bitbucket        : #
+  codepen          : #
+  dribbble         : #
+  flickr           : #
+  facebook         : #
+  foursquare       : #
   github           : #"jayrobwilliams"
   gitlab           : #"jayrobwilliams"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : #
+  keybase          : #
+  instagram        : #
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : #
+  linkedin         : #
   mastodon         : #"fosstodon.org/@jayrobw"
-  pinterest        :
-  soundcloud       :
+  pinterest        : #
+  soundcloud       : #
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  steam            : #
+  tumblr           : #
+  twitter          : #
+  vine             : #
+  weibo            : #
+  xing             : #
+  youtube          : #
+  wikipedia        : #
 
 
 # Reading Files
