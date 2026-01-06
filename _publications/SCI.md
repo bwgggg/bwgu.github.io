@@ -1,27 +1,27 @@
 ---
-1. B. Gu, D. Li, H. Ding, G. Wang, and C. Tellambura, “Breaking the Interference and Fading Gridlock in Backscatter Communications: State-of-the-Art, Design Challenges, and Future Directions,” IEEE Communications Surveys & Tutorials, vol. 27, no. 2, pp. 870-911, Apr. 2025. (计算机/通信领域排名第一，IF：46.7，中科院一区Top)
+1. B. Gu, D. Li, H. Ding, G. Wang, and C. Tellambura, “Breaking the Interference and Fading Gridlock in Backscatter Communications: State-of-the-Art, Design Challenges, and Future Directions,” IEEE Communications Surveys & Tutorials, vol. 27, no. 2, pp. 870-911, Apr. 2025. (IF：46.7)
 
-2. B. Gu, D. Li, H. Xie, K. Yu, Q. Guan and Y. Xu, “Exploring Hybrid Active and Passive Multiple Access via Slotted ALOHA-Driven Backscatter Communications,” in IEEE Transactions on Cognitive Communications and Networking, 2025. (IF:7，中科院一区)
+2. B. Gu, D. Li, H. Xie, K. Yu, Q. Guan and Y. Xu, “Exploring Hybrid Active and Passive Multiple Access via Slotted ALOHA-Driven Backscatter Communications,” in IEEE Transactions on Cognitive Communications and Networking, 2025. (IF:7)
 
-3. B. Gu, D. Li, Y. Liu, and Y. Xu, “Exploiting Constructive Interference for Backscatter Communication Systems,” IEEE Transactions on Communications, vol. 71, no. 7, pp. 4344-4359, Jul. 2023. (IF: 8.3，中科院二区Top)
+3. B. Gu, D. Li, Y. Liu, and Y. Xu, “Exploiting Constructive Interference for Backscatter Communication Systems,” IEEE Transactions on Communications, vol. 71, no. 7, pp. 4344-4359, Jul. 2023. (IF: 8.3)
 
-4. B. Gu, D. Li, and H. Xie, “Computation-Efficient Backscatter-Blessed MEC With User Reciprocity,” IEEE Transactions on Vehicular Technology, vol. 73, no. 6, pp. 9026-9031, Jun. 2024. (IF: 7.1，中科院二区Top)
+4. B. Gu, D. Li, and H. Xie, “Computation-Efficient Backscatter-Blessed MEC With User Reciprocity,” IEEE Transactions on Vehicular Technology, vol. 73, no. 6, pp. 9026-9031, Jun. 2024. (IF: 7.1)
 
-5. B. Gu, D. Li, Y. Xu, C. Li, and S. Sun, “Many a Little Makes a Mickle: Probing Backscattering Energy Recycling for Backscatter Communications,” IEEE Transactions on Vehicular Technology, vol. 72, no. 1, pp. 1343-1348, Jan. 2023. (IF: 7.1，中科院二区Top)
+5. B. Gu, D. Li, Y. Xu, C. Li, and S. Sun, “Many a Little Makes a Mickle: Probing Backscattering Energy Recycling for Backscatter Communications,” IEEE Transactions on Vehicular Technology, vol. 72, no. 1, pp. 1343-1348, Jan. 2023. (IF: 7.1)
 
-6. B. Gu, H. Xie, and D. Li, “Act Before Another Is Aware: Safeguarding Backscatter Systems With Covert Communications,” in IEEE Wireless Communications Letters, vol. 12, no. 6, pp. 1106-1110, Jun. 2023. (IF:5.5，中科院三区)
+6. B. Gu, H. Xie, and D. Li, “Act Before Another Is Aware: Safeguarding Backscatter Systems With Covert Communications,” in IEEE Wireless Communications Letters, vol. 12, no. 6, pp. 1106-1110, Jun. 2023. (IF:5.5)
 
-7. H. Xie, B. Gu, D. Li, Z. Lin and Y. Xu, “Gain Without Pain: Recycling Reflected Energy From Wireless-Powered RIS-Aided Communications,” in IEEE Internet of Things Journal, vol. 10, no. 15, pp. 13264-13280, Aug. 2023. (IF:8.9，中科院二区Top)
+7. H. Xie, B. Gu, D. Li, Z. Lin and Y. Xu, “Gain Without Pain: Recycling Reflected Energy From Wireless-Powered RIS-Aided Communications,” in IEEE Internet of Things Journal, vol. 10, no. 15, pp. 13264-13280, Aug. 2023. (IF:8.9)
 
-8. Y. Xu, B. Gu (corresponding author), Z. Gao, D. Li, Q. Wu, and C. Yuen, “Applying RIS in Multi-User SWIPT-WPCN Systems: A Robust and Environmentally-Friendly Design,” IEEE Transactions on Cognitive Communications and Networking, vol. 10, no. 1, pp. 209-222, Feb. 2024. (IF:7，中科院一区，ESI高被引论文)
+8. Y. Xu, B. Gu (corresponding author), Z. Gao, D. Li, Q. Wu, and C. Yuen, “Applying RIS in Multi-User SWIPT-WPCN Systems: A Robust and Environmentally-Friendly Design,” IEEE Transactions on Cognitive Communications and Networking, vol. 10, no. 1, pp. 209-222, Feb. 2024. (IF:7)
 
-9. Y. Xu, B. Gu (corresponding author), D. Li, Z. Yang, C. Huang and K. -K. Wong, “Resource Allocation for Secure SWIPT-Enabled D2D Communications With α  Fairness,” in IEEE Transactions on Vehicular Technology, vol. 71, no. 1, pp. 1101-1106, Jan. 2022. (IF: 7.1，中科院二区Top)
+9. Y. Xu, B. Gu (corresponding author), D. Li, Z. Yang, C. Huang and K.-K. Wong, “Resource Allocation for Secure SWIPT-Enabled D2D Communications With α  Fairness,” in IEEE Transactions on Vehicular Technology, vol. 71, no. 1, pp. 1101-1106, Jan. 2022. (IF: 7.1)
 
-10. H. Xie, D. Li, and B. Gu, “Enhancing Spectrum Sensing via Reconfigurable Intelligent Surfaces: Passive or Active Sensing and How Many Reflecting Elements are Needed?,” in IEEE Transactions on Wireless Communications, Jul. 2024. (IF: 10.7，中科院一区Top)
+10. H. Xie, D. Li, and B. Gu, “Enhancing Spectrum Sensing via Reconfigurable Intelligent Surfaces: Passive or Active Sensing and How Many Reflecting Elements are Needed?,” in IEEE Transactions on Wireless Communications, Jul. 2024. (IF: 10.7)
 
-11. H. Xie, D. Li, and B. Gu, “Exploring Hybrid Active-Passive RIS-Aided MEC Systems: From the Mode-Switching Perspective,” in IEEE Transactions on Wireless Communications, Mar. 2024. (IF: 10.7，中科院一区Top)
+11. H. Xie, D. Li, and B. Gu, “Exploring Hybrid Active-Passive RIS-Aided MEC Systems: From the Mode-Switching Perspective,” in IEEE Transactions on Wireless Communications, Mar. 2024. (IF: 10.7)
 
-12. Y. Xu, B. Gu, R. Q. Hu, D. Li and H. Zhang, “Joint Computation Offloading and Radio Resource Allocation in MEC-Based Wireless-Powered Backscatter Communication Networks,” in IEEE Transactions on Vehicular Technology, vol. 70, no. 6, pp. 6200-6205, June 2021. (IF: 7.1，中科院二区Top)
+12. Y. Xu, B. Gu, R. Q. Hu, D. Li and H. Zhang, “Joint Computation Offloading and Radio Resource Allocation in MEC-Based Wireless-Powered Backscatter Communication Networks,” in IEEE Transactions on Vehicular Technology, vol. 70, no. 6, pp. 6200-6205, June 2021. (IF: 7.1)
 
-13. Y. Xu, B. Gu, and D. Li, “Robust Energy-Efficient Optimization for Secure Wireless-Powered Backscatter Communications With a Non-Linear EH Model,” in IEEE Communications Letters, vol. 25, no. 10, pp. 3209-3213, Oct. 2021. (IF: 4.4，中科院三区)
+13. Y. Xu, B. Gu, and D. Li, “Robust Energy-Efficient Optimization for Secure Wireless-Powered Backscatter Communications With a Non-Linear EH Model,” in IEEE Communications Letters, vol. 25, no. 10, pp. 3209-3213, Oct. 2021. (IF: 4.4)
 
