@@ -49,37 +49,11 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-mastodon:
-  username               : "fosstodon.org/@jayrobw"
-twitter:
-  username               : 
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:
-    tracking_id          : 
-  goatcounter:
-    code		 : jayrobwilliams
+
+
+
 
 
 # Site Author
@@ -89,7 +63,7 @@ author:
   bio              : "Associate professor in Xinjiang University."
   location         : Xinjiang 
   employer         : Xinjiang University
-  pubmed           :
+  pubmed           : #
   orcid            : "https://orcid.org/0000-0001-9506-328X"
   googlescholar    : "https://scholar.google.com/citations?user=HVV62k4AAAAJ&hl=zh-CN"
   email            : "bwgu@xju.edu.cn" 
