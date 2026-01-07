@@ -1,5 +1,4 @@
 ---
-permalink: /teaching/
 title: "project"
 ---
 
