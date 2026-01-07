@@ -1,5 +1,5 @@
 ---
-title: "2023"
+title: ""
 collection: publications
 date: July 2023
 venue: 'IEEE Transactions on Communications'
