@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
+<sup>*</sup> No need to scroll more, you’ve hit the bottom!
