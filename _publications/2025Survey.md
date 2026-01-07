@@ -1,5 +1,5 @@
 ---
-title: "2025"
+title: ""
 collection: publications
 permalink: https://ieeexplore.ieee.org/abstract/document/10616210
 date: Apr. 2025
