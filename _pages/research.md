@@ -7,27 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research centers on two main strands: low-power backscatter communications and intelligent reflecting surface (IRS)-enabled wireless systems, with the overarching goal of enabling sustainable connectivity for resource-constrained IoT devices. In the first strand, I study how backscatter links can support reliable communication under ultra-low-power budgets, focusing on modulation and detection under weak-signal conditions, as well as cooperative and networked backscatter mechanisms in challenging propagation environments. In the second strand, I address key bottlenecks in IRS-enabled systems—such as the high dimensionality of control information, limited generalization across environments, and deployment constraints at edge controllers.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Alongside these core agendas, I maintain an active interest in emerging directions at the intersection of the low-altitude economy and integrated sensing and communication (ISAC), investigating how low-power communication and reconfigurable propagation technologies can be leveraged in UAV-enabled and air–ground collaborative scenarios and what new challenges arise in these highly dynamic environments.
 
 <nbsp>
 
